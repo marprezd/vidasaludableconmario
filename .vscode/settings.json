@@ -6,11 +6,9 @@
   "prettier.enable": false,
   "editor.formatOnSave": false,
 
-  // Auto fix
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit",
-    "source.organizeImports": "never"
-  },
+  // Auto fix disabled here to avoid triggering the ESLint "Configure" popup.
+  // ESLint will run on save via the extension (`eslint.run: "onSave"`).
+  "editor.codeActionsOnSave": {},
 
   // Silent the stylistic rules in your IDE, but still auto fix them
   "eslint.rules.customizations": [
@@ -51,6 +49,9 @@
     "pcss",
     "postcss"
   ],
+  // Use pnpm and run ESLint on save
+  "eslint.enable": true,
+  "eslint.run": "onSave",
   "i18n-ally.localesPaths": [
     "messages",
     "src/i18n"
