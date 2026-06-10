@@ -1,0 +1,68 @@
+{
+  "Messages": {
+    "Manifest": {
+      "name": "Vida Saludable con Mario"
+    },
+    "Metadata": {
+      "title": "Vida Saludable con Mario",
+      "description": "Te acompaño a transformar tu salud con planes de nutrición personalizados y productos Herbalife. Más energía, mejor rendimiento y bienestar integral, con seguimiento cercano y motivación constante."
+    },
+    "Header": {
+      "logo": "Vida Saludable con Mario",
+      "menu": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "testimonials": "Testimonios",
+        "contact": "Contacto"
+      }
+    },
+    "Hero": {
+      "title": "Transforma tu vida <highlighted>¡Hoy mismo!</highlighted>",
+      "subtitle": "Nutrición personalizada para tu bienestar",
+      "cta": {
+        "button": "¡Quiero empezar!"
+      },
+      "additionalText1": "Asesoria Gratis",
+      "additionalText2": "Resultados Reales"
+    },
+    "Benefits": {
+      "nutrition-plans": "Planes nutricionales personalizados",
+      "exercise-guide": "Guía de ejercicios y bienestar",
+      "motivation": "Apoyo y motivación constante"
+    },
+    "Results": {
+      "title": "Descubre el <highlighted>cambio</highlighted> que necesitas",
+      "first": "Pierde peso saludablemente",
+      "second": "Aumenta tu energía",
+      "third": "Mejora tu bienestar"
+    },
+    "Testimonials": {
+      "title": "Lo que dicen nuestros clientes",
+      "cta": "¡Quiero ser testigo!"
+    },
+    "Contact": {
+      "title": "¡Da el primer paso!",
+      "subtitle": "Obtén tu asesoría nutricional gratuita",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "cta": "Recibe tu asesoría",
+      "whatsapp": {
+        "title": "¿Tienes preguntas? ¡Escríbenos al WhatsApp!",
+        "button": "Contáctanos por WhatsApp"
+      }
+    },
+    "Footer": {
+      "copyright": "Vida Saludable con Mario. Todos los derechos reservados.",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos y Condiciones",
+      "social": {
+        "facebook": "Síguenos en Facebook",
+        "instagram": "Síguenos en Instagram",
+        "twitter": "Síguenos en Twitter",
+        "tiktok": "Síguenos en TikTok"
+      }
+    }
+  }
+}

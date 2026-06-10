@@ -1,0 +1,68 @@
+{
+  "Messages": {
+    "Manifest": {
+      "name": "Vida Saludable con Mario"
+    },
+    "Metadata": {
+      "title": "Healthy Life with Mario",
+      "description": "I accompany you in transforming your health with personalized nutrition plans and Herbalife products. More energy, better performance, and integral well-being, with close monitoring and constant motivation."
+    },
+    "Header": {
+      "logo": "Vida Saludable con Mario",
+      "menu": {
+        "home": "Home",
+        "services": "Services",
+        "testimonials": "Testimonials",
+        "contact": "Contact"
+      }
+    },
+    "Hero": {
+      "title": "Transform your life <highlighted>today!</highlighted>",
+      "subtitle": "Personalized nutrition for your well-being",
+      "cta": {
+        "button": "I want to start!"
+      },
+      "additionalText1": "Free consultation",
+      "additionalText2": "Real results"
+    },
+    "Benefits": {
+      "nutrition-plans": "Personalized nutrition plans",
+      "exercise-guide": "Exercise and well-being guide",
+      "motivation": "Constant support and motivation"
+    },
+    "Results": {
+      "title": "Discover the <highlighted>change</highlighted> you need",
+      "first": "Lose weight healthily",
+      "second": "Increase your energy",
+      "third": "Improve your well-being"
+    },
+    "Testimonials": {
+      "title": "What our clients say",
+      "cta": "I want to be a witness!"
+    },
+    "Contact": {
+      "title": "Take the first step!",
+      "subtitle": "Get your free nutritional advice",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "cta": "Get your advice",
+      "whatsapp": {
+        "title": "Do you have questions? Write to us on WhatsApp!",
+        "button": "Contact us via WhatsApp"
+      }
+    },
+    "Footer": {
+      "copyright": "Healthy Life with Mario. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "social": {
+        "facebook": "Follow us on Facebook",
+        "instagram": "Follow us on Instagram",
+        "twitter": "Follow us on Twitter",
+        "tiktok": "Follow us on TikTok"
+      }
+    }
+  }
+}
